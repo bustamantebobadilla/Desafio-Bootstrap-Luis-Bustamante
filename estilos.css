@@ -61,3 +61,15 @@ footer textarea{
     padding-top: 100px;
     width: 50%;
 }
+.portada-metodo{
+    height: 500px;
+    background-image: url(./MEDIA/METODO\ .PNG);
+    background-size: 100%;
+    background-position: center;
+}
+.metodo-imagen{
+    display: block;
+    height:50%;
+    width: 50%;
+    padding-left: 10%;
+}
