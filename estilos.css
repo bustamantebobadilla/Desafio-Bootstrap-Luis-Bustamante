@@ -38,6 +38,9 @@ h2{
     padding-top: 700px;
     width: 50%;
 }
+.form-group label{
+    color:white
+}
 .pie{
     padding-top: 50px;
     text-align: center;
@@ -74,4 +77,22 @@ footer textarea{
     height:50%;
     width: 50%;
     padding-left: 10%;
+}
+.servicios-portada{
+    width: 70%;
+    height: 600px;
+}
+.div-servicios{
+    padding-top: 200px;
+    padding-left: 15%;
+    width: 70%;
+    font-size: 20px;
+}
+.div-servicios button{
+    width: 150px;
+    height: fit-content;
+    display: inline-block;
+    color: #032656;
+    border-radius: 10%;
+    background-color: rgba(255, 187, 0, 0.932);
 }
