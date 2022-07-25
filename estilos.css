@@ -12,6 +12,7 @@ body{
     height:900px;
     color: #032656;
     padding-left: 50px;
+    padding-top: 50px;
 }
 .p-home{
 padding-left: 0;
@@ -30,11 +31,12 @@ h2{
 .nleft{
     background-image: url(./MEDIA/YOU_servicios.png);
     height: 800px;
-    width: 100%;
-    background-position: center;
+    width: 50%;
+    background-position:center;
 }
 .btn-group{
     padding-top: 700px;
+    width: 50%;
 }
 .pie{
     padding-top: 50px;
